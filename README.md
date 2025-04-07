@@ -5,7 +5,7 @@ A repository implementing fundamental data science algorithms from first princip
 ## Current Projects
 
 - **Neural Networks from Scratch**: Based on Andrej Karpathy's approach, implementing neural networks using only basic Python and NumPy
-- **Principal Component Analysis (PCA) from Scratch**: Exploring dimensionality reduction without using high-level libraries
+- **Principal Component Analysis (PCA) from Scratch**: Exploring dimensionality reduction and other unsupervised learning techniques using Claude 
 
 ## Project Goals
 
